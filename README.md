@@ -25,6 +25,6 @@ Write a parameterized program to generate all words of the language 𝐿𝑛𝑘
 ### Part 2: Syntax Analyzer
 Write a parameterized program that, given any word as input, checks if it belongs to the language ℒ(𝐺). It is assumed that this word is lexically correct, meaning it only contains elements from the set 𝑇. During evaluation, the teacher will provide any word as input, and your program should verify if the word is syntactically correct.
 
-## Explanation:
+## 2-Explanation:
 This project was done using java programming language.
 The commanters will let you understand every thing in the code not the graphic part as it was optional so I was focusing on the mathematical part more than the graphical interface but I am sure you can find out to understand it as you have now powerful tools like chatGPT and other AI assictenes.
