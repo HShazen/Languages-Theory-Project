@@ -9,7 +9,7 @@ So I have decide to day Feb 13th, 2024 to share some projects that I did for my 
 This project was for the module of Languages Theory, do on April 2023, in my second year of univercity in informatic.
 The pdf which tell you what to do is in frensh so I will write the explanation here in english:
 
-##Partie 1: Langage et grammaires
+## Partie 1: Langage et grammaires
 Soit ℒ(𝐺) le langage généré par la grammaire 𝐺 =< 𝑇, 𝑁, 𝑆, 𝑃 > tel que :
 𝑇={𝑎, 𝑏, 𝑐}
 𝑁={𝑆, 𝐴}
@@ -26,7 +26,7 @@ Ecrire un programme paramétré qui permet de générer tous les mots du langage
 paramètres 𝑘 et n seront donnés en entrée à votre programme (𝑘, 𝑛 ≥ 0). 𝐿𝑛𝑘 représente la puissance
 n du langage 𝐿𝑘 .
 
-##Partie 2: Analyseur syntaxique
+## Partie 2: Analyseur syntaxique
 Ecrire un programme paramétré qui, étant donné un mot quelconque en entrée, vérifie si ce mot
 appartient au langage ℒ(𝐺) . On supposera que ce mot est lexicalement correct, c’est-à-dire qu’il ne
 comporte que des éléments de l’ensemble 𝑇. Lors de l’évaluation, l’enseignant donnera en entrée un
