@@ -1,8 +1,8 @@
 # Languages-Theory-Project
-## Begin on:  Apri 4th 2023
-## Finish on: May 17th 2023
-## Done by :  Hicham SAIDI , Anis CHEIKH
-## Teacher :  SADOU 
+### Begin on:  Apri 4th 2023
+### Finish on: May 17th 2023
+### Done by :  Hicham SAIDI , Anis CHEIKH
+### Teacher :  SADOU 
 
 ## 1-Introduction:
 Hi there,
