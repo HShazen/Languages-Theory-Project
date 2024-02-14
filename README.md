@@ -5,7 +5,7 @@
 ------ Hicham SAIDI <br>
 ------ Anis CHEIKH  <br>
 -> Note :     87.5% (best mark)<br>
--> Teacher:   Dr Djouadi
+-> Teacher:   Dr Djouadi<br>
 -> Licence 2 -Informatic-
 
 ## 1-Introduction:
